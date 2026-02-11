@@ -1,0 +1,19 @@
+# build java
+/target/
+*.jar
+*.war
+*.ear
+
+# env / secrets
+.env
+application-local.yml
+application-local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+/target/
+*.jar
+.env
+application.yml
+application.properties
